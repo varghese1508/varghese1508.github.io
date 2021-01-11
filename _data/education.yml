@@ -3,8 +3,18 @@
   dates: August 2019 - Present
   logo: NITC.png
   
-- course: Explorer Fellow
-  institute: MLH Fellowship
-  dates: Fall 2020
-  logo: fellowship.svg
+- course: Data Science Professional Certificate by IBM
+  institute: Coursera
+  dates: July 2020
+  logo: coursera.png
+ 
+- course: Deep Learning Specialization by deeplearning.ai
+  institute: Coursera
+  dates: March 2021
+  logo: coursera.png
+  
+- course: Machine Learning by Stanford
+  institute: Coursera
+  dates: June 2020
+  logo: coursera.png
   
